@@ -1,0 +1,14 @@
+---
+title: "Welcome To My Blog"
+author: "Tarun Bathini"
+date: "2023-04-16"
+categories: [news]
+---
+
+Welcome! This is my IS 308 project.
+
+![](thumbnail.jpg)
+
+In this project, I plan to create a blog website that explores the intersection of race and gender with social issues. Through the use of R programming language, I will provide data visualizations and analysis that will help us understand the impact of race and gender on social outcomes.
+
+Overall, this project will demonstrate a thoughtful and informed perspective on issues related to race and gender that is based on our course readings and discussions(video games and work place). By engaging with the main themes of our class (race, gender, class, power) and their intersection with information and communication technologies, we will be able to gain a deeper understanding of how these issues impact our lives and the world around us.

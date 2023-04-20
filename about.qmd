@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tarunbathini/
+    - icon: github
+      text: Github
+      href: https://github.com/tbath18
+---
+
+Welcome To my Project.
+
+[*about me:*]{.underline}
+
+I am a Data Science and Information Science Major and Business Minor student in the James Scholar Honors Program at UIUC. I am a data science researcher at Illini Blockchain, a member of the UIUC tennis club, Co-Founder of SCROLL and Bioinformatics researcher at IGB. I am taking IS 308 which is a course about the intersection of race, gender and Information Technology. Throughout the Course I found it interesting to see how certain ethnic backgrounds face different stigmas or issues especially in Video Games.

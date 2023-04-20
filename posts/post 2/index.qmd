@@ -1,0 +1,21 @@
+---
+title: "Racism within Video Games"
+author: "Tarun Bathini"
+date: "2023-04-17"
+categories: [analysis]
+image: "https://techcrunch.com/wp-content/uploads/2020/06/igor-karimov-M1nZU61xTK4-unsplash.jpg"
+---
+
+Racism in video games remains a significant issue.
+
+![](images/image-1587566545.png)
+
+Often, developers create games with characters that perpetuate stereotypes, leading to subtle or blatant racist content. This lack of diversity can make players feel unwelcome, especially those from underrepresented backgrounds.
+
+The problem goes beyond race, as cultural, religious, and gender diversity are also overlooked. Groups like Indigenous people, LGBTQ+ individuals, and people with disabilities rarely see accurate portrayals in games. Addressing these issues can lead to more inclusive gaming experiences, fostering creativity and appealing to wider audiences.
+
+Taking action against racism and improving representation is crucial for the future of gaming. When developers and publishers work closely with diverse groups, they create more accurate and respectful portrayals. This approach helps reduce discrimination, while promoting understanding among players. Embracing inclusivity in video games can result in a more united gaming community, where everyone feels welcomed and valued.
+
+source:
+
+https://www.adl.org/resources/report/free-play-hate-harassment-and-positive-social-experiences-online-games
